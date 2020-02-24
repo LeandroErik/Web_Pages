@@ -1,0 +1,79 @@
+    img {
+        max-width: 100%;
+    }
+    
+    a {
+        color: #3258A6;
+    }
+    
+    #principal {
+        width: 40%;
+        float: none;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .quitar-float {
+        float: none;
+    }
+    
+    .espacio-arriba {
+        margin-top: 100px;
+    }
+    
+    .fuenteMontserrat {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .fuenteLobster {
+        font-family: 'Lobster', cursive;
+    }
+    
+    .azulfuerte {
+        color: #0F2259;
+    }
+    
+    .fondo {
+        background-color: #80E8FF;
+    }
+    
+    .espacio-derecha {
+        margin-right: 1em;
+    }
+    
+    .no-lista {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .no-lista li {
+        list-style-type: none;
+    }
+    
+    .se-azul {
+        background-color: #6CBAD9;
+    }
+    
+    .padding-largo {
+        padding: 5px 10px;
+    }
+    
+    .inline-block {
+        float: none;
+        display: inline-block;
+        margin-right: -4px;
+    }
+    
+    .grande {
+        font-size: 4em;
+    }
+    
+    .tipografia {
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    a,
+    .azul {
+        color: #0F2259;
+    }
