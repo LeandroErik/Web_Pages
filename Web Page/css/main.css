@@ -2,6 +2,10 @@
         max-width: 100%;
     }
     
+    .icono {
+        width: 20%;
+    }
+    
     a {
         color: #3258A6;
     }
@@ -11,6 +15,10 @@
         float: none;
         margin: 0 auto;
         text-align: center;
+    }
+    
+    .mediano {
+        font-size: 2em;
     }
     
     .quitar-float {
@@ -30,11 +38,19 @@
     }
     
     .azulfuerte {
-        color: #0F2259;
+        color: #025159;
     }
     
     .fondo {
-        background-color: #80E8FF;
+        background-color: #F2ECE4;
+    }
+    
+    .se-azul {
+        background-color: #048C8C;
+    }
+    
+    .blanco {
+        color: white;
     }
     
     .espacio-derecha {
@@ -48,10 +64,6 @@
     
     .no-lista li {
         list-style-type: none;
-    }
-    
-    .se-azul {
-        background-color: #6CBAD9;
     }
     
     .padding-largo {
@@ -76,4 +88,8 @@
     a,
     .azul {
         color: #0F2259;
+    }
+    
+    .vete-arriba {
+        vertical-align: top;
     }
